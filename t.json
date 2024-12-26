@@ -2,187 +2,98 @@
   "taxonomy": [
     {
       "Kingdom": {
-        "Arabic": "حيوانات",
+        "Arabic": "الحيوانات",
         "English": "Animalia"
       },
       "Phylum": {
-        "Arabic": "حبليات",
+        "Arabic": "الحبليات",
         "English": "Chordata"
       },
       "Class": {
-        "Arabic": "ثدييات",
+        "Arabic": "الثدييات",
         "English": "Mammalia"
       },
       "Order": {
-        "Arabic": "لواحم",
+        "Arabic": "اللواحم",
         "English": "Carnivora"
       },
       "Family": {
-        "Arabic": "كلبيات",
-        "English": "Canidae"
-      },
-      "Genus": {
-        "Arabic": "كلب",
-        "English": "Canis"
-      },
-      "Species": {
-        "Arabic": "الذئب الرمادي",
-        "English": "Canis lupus",
-        "LocalNames": {
-          "Arabic": [
-            "الذئب الرمادي",
-            "الذئب الأوراسي"
-          ],
-          "English": [
-            "Grey Wolf",
-            "Eurasian Wolf"
-          ],
-          "Regional": [
-            {
-              "Name": "ذئب",
-              "Region": "الشرق الأوسط",
-              "Language": "Arabic"
-            },
-            {
-              "Name": "волк",
-              "Region": "روسيا",
-              "Language": "Russian"
-            }
-          ]
-        },
-        "Description": {
-          "Arabic": "حيوان ثديي مفترس من فصيلة الكلبيات، يعيش ويصطاد في جماعات",
-          "English": "A large canine predator that lives and hunts in packs"
-        },
-        "Habitat": {
-          "Arabic": "الغابات والسهول المفتوحة في أوراسيا وأمريكا الشمالية",
-          "English": "Forests and open plains across Eurasia and North America"
-        },
-        "References": [
-          {
-            "Title": "موسوعة الحياة",
-            "URL": "https://eol.org/pages/328607",
-            "Type": "reference"
-          },
-          {
-            "Title": "صور الذئب الرمادي",
-            "URL": "https://www.nationalgeographic.com/animals/mammals/g/gray-wolf/",
-            "Type": "image"
-          }
-        ],
-        "Media": {
-          "Images": [
-            {
-              "URL": "https://example.com/wolf1.jpg",
-              "Caption(Ar)": "ذئب رمادي بالغ",
-              "Caption(En)": "Adult Grey Wolf",
-              "Credit": "National Geographic",
-              "License": "CC BY-SA 4.0"
-            }
-          ],
-          "Videos": [
-            {
-              "URL": "https://example.com/wolf-video.mp4",
-              "Caption(Ar)": "ذئب يصطاد فريسته",
-              "Caption(En)": "Wolf hunting its prey",
-              "Credit": "Wildlife Documentary",
-              "Duration": "00:02:30"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "Kingdom": {
-        "Arabic": "حيوانات",
-        "English": "Animalia"
-      },
-      "Phylum": {
-        "Arabic": "حبليات",
-        "English": "Chordata"
-      },
-      "Class": {
-        "Arabic": "ثدييات",
-        "English": "Mammalia"
-      },
-      "Order": {
-        "Arabic": "لواحم",
-        "English": "Carnivora"
-      },
-      "Family": {
-        "Arabic": "قططيات",
+        "Arabic": "القططيات",
         "English": "Felidae"
       },
       "Genus": {
-        "Arabic": "نمر",
+        "Arabic": "النمر",
         "English": "Panthera"
       },
       "Species": {
-        "Arabic": "أسد",
-        "English": "Panthera leo",
-        "LocalNames": {
-          "Arabic": [
-            "أسد",
-            "الأسد الملكي"
-          ],
-          "English": [
-            "Lion",
-            "King of the Jungle"
-          ],
-          "Regional": [
-            {
-              "Name": "lion",
-              "Region": "فرنسا",
-              "Language": "French"
-            },
-            {
-              "Name": "лев",
-              "Region": "روسيا",
-              "Language": "Russian"
-            }
-          ]
-        },
-        "Description": {
-          "Arabic": "حيوان ثديي مفترس من الفصيلة القططية، يعيش في السهول والغابات المفتوحة",
-          "English": "A large predatory mammal of the Felidae family, living in open plains and forests"
-        },
-        "Habitat": {
-          "Arabic": "السهول والغابات المفتوحة في أفريقيا وآسيا",
-          "English": "Open plains and forests across Africa and Asia"
-        },
-        "References": [
-          {
-            "Title": "موسوعة الحيوانات",
-            "URL": "https://en.wikipedia.org/wiki/Panthera_leo",
-            "Type": "reference"
-          },
-          {
-            "Title": "صور الأسد",
-            "URL": "https://www.google.com/search?q=Panthera+leo&tbm=isch",
-            "Type": "image"
-          }
+        "Arabic": "النمر العربي",
+        "English": "Arabian Leopard"
+      },
+      "LocalNames": {
+        "Arabic": [
+          "النمر العربي",
+          "النمر"
         ],
-        "Media": {
-          "Images": [
-            {
-              "URL": "https://example.com/lion1.jpg",
-              "Caption(Ar)": "أسد",
-              "Caption(En)": "Lion",
-              "Credit": "National Geographic",
-              "License": "CC BY-SA 4.0"
-            }
-          ],
-          "Videos": [
-            {
-              "URL": "https://example.com/lion-video.mp4",
-              "Caption(Ar)": "أسد يصطاد فريسته",
-              "Caption(En)": "Lion hunting its prey",
-              "Credit": "Wildlife Documentary",
-              "Duration": "00:02:30"
-            }
-          ]
+        "English": [
+          "Arabian Leopard",
+          "Leopard"
+        ]
+      },
+      "RegionalNames": [
+        {
+          "name": "نمر",
+          "region": "السعودية",
+          "language": "عربية"
+        },
+        {
+          "name": "لوبارد",
+          "region": "اليمن",
+          "language": "عربية"
         }
-      }
+      ],
+      "Description": {
+        "Arabic": "النمر العربي هو نوع من النمور يعيش في شبه الجزيرة العربية",
+        "English": "The Arabian leopard is a leopard subspecies native to the Arabian Peninsula"
+      },
+      "Habitat": {
+        "Arabic": "الجبال والوديان الصخرية",
+        "English": "Rocky mountains and valleys"
+      },
+      "References": [
+        {
+          "title": "معلومات عن النمر العربي",
+          "url": "https",
+          "type": "//example.com/arabian-leopard"
+        },
+        {
+          "title": "صور النمر",
+          "url": "https",
+          "type": "//example.com/leopard-images"
+        }
+      ],
+      "Images": [
+        {
+          "url": "https",
+          "caption": {
+            "Arabic": "//example.com/leopard1.jpg",
+            "English": "نمر عربي بالغ"
+          },
+          "credit": "Adult Arabian Leopard",
+          "license": "Wildlife"
+        }
+      ],
+      "Videos": [
+        {
+          "url": "https",
+          "caption": {
+            "Arabic": "//example.com/leopard-video.mp4",
+            "English": "نمر يصطاد"
+          },
+          "credit": "Leopard hunting",
+          "duration": "Wildlife"
+        }
+      ]
     }
-  ]
+  ],
+  "lastModified": "2024-12-26T08:57:20.605063"
 }
